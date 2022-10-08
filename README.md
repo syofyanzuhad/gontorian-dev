@@ -12,22 +12,22 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/syofyanzuhad">
+      <a href="https://github.com/syofyanzuhad" title="Github">
         <kbd><img src="https://avatars3.githubusercontent.com/syofyanzuhad?size=400" width="100px;" alt=""/></kbd>
         <br />
         <sub><b>Syofyan Zuhad</b></sub>
       </a>
       <br />
-      <a href="https://github.com/syofyanzuhad" title="Code"> :shield: 2018 </a> 
+      <a href="https://syofyanzuhad.medium.com" title="Graduate"> :shield: 2018 </a> 
     </td>
     <td align="center">
-      <a href="https://github.com/example">
+      <a href="https://github.com/example" title="Github">
         <kbd><img src="https://avatars3.githubusercontent.com/syofyanzuhad?size=400" width="100px;" alt=""/></kbd>
         <br />
-        <sub><b>Contoh</b></sub>
+        <sub><b>Nama</b></sub>
       </a>
       <br />
-      <a href="https://github.com/syofyanzuhad" title="Code"> :shield: 2018 </a> 
+      <a href="https://syofyanzuhad.medium.com" title="Graduate"> :shield: 2018 </a> 
     </td>
   </tr>
 </table>
