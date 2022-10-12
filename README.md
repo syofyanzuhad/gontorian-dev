@@ -11,6 +11,15 @@
 
 <table>
   <tr>
+     <td align="center">
+      <a href="https://github.com/example" title="Github">
+        <kbd><img src="https://avatars3.githubusercontent.com/Teddir?size=400" width="100px;" alt=""/></kbd>
+        <br />
+        <sub><b>Teddi</b></sub>
+      </a>
+      <br />
+      <a href="https://teddir.medium.com" title="Graduate"> :shield: 2020 </a> 
+    </td>
     <td align="center">
       <a href="https://github.com/syofyanzuhad" title="Github">
         <kbd><img src="https://avatars3.githubusercontent.com/syofyanzuhad?size=400" width="100px;" alt=""/></kbd>
